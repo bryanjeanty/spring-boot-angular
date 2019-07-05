@@ -1,0 +1,18 @@
+# nano editor
+*.swp
+
+# vscode
+.settings
+.vscode
+
+#spring-boot
+.classpath
+.project
+target
+
+# angular
+frontend/angularclient/e2e
+frontend/angularclient/.editorconfig
+frontend/angularclient/browserslist
+frontend/angularclient/karma.conf.js
+frontend/angularclient/README.md
